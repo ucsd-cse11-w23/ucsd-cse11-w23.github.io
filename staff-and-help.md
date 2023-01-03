@@ -13,7 +13,7 @@ Quick links:
 - [Course FAQs (includes waitlist FAQs)](#faq)
 - Piazza Message Board: [https://piazza.com/ucsd/summer2022/cse11_s222_a00/home](https://piazza.com/ucsd/summer2022/cse11_s222_a00/home){:target="_blank"}
 - Lab queue (autograder) for in person help: [https://autograder.ucsd.edu](https://autograder.ucsd.edu){:target="_blank"}
-- Tutoring Procedurs: [https://docs.google.com/document/d/1B6TSr3yXpRSiFg0fKgLGECXRKVvFLphC5053H8s9-WE/edit?usp=sharing](https://docs.google.com/document/d/1B6TSr3yXpRSiFg0fKgLGECXRKVvFLphC5053H8s9-WE/edit?usp=sharing){:target="_blank"}
+- Tutoring Procedurs: [https://docs.google.com/document/d/1kNbixWWxMaEuDo_coFZZHdvjpId_uNUU0v6by5g2zLs/edit?usp=sharing](https://docs.google.com/document/d/1kNbixWWxMaEuDo_coFZZHdvjpId_uNUU0v6by5g2zLs/edit?usp=sharing){:target="_blank"}
 - Map link for CSE building lab entrance: [https://goo.gl/maps/Zps77SRmNapKfkbC9](https://goo.gl/maps/Zps77SRmNapKfkbC9){:target="_blank"}
   - You have permission to use _any_ lab, but prefer to use the B250 lab if space is available, that's where our staff will be based
 - Greg
