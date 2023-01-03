@@ -6,8 +6,7 @@ released-on: "2023-01-09"
 videos:
 
 worksheets:
-  - title: Lecture
-    url: https://drive.google.com/file/d/11aFBLCsCXVocpniATHB1a9Lcz41cPf09
+
 ---
 
 ## Problem Session 1 – Introduction
