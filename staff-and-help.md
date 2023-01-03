@@ -5,7 +5,7 @@ title: "UCSD CSE11 – Accelerated Introduction to Programming"
 # UCSD CSE 11 Winter 2023
 ## Asking Questions and Getting Help
 
-There are 12 staff members (instructor, TAs, and tutors) to help with your
+There are 32 staff members (instructor, TAs, and tutors) to help with your
 learning, and a few different ways to get in touch and ask for help.
 
 Quick links:
@@ -18,7 +18,7 @@ Quick links:
   - You have permission to use _any_ lab, but prefer to use the B250 lab if space is available, that's where our staff will be based
 - Greg
   - Email: `g2miranda@eng.ucsd.edu`
-  - **Office hours**: Monday, Tuesday, Wednesday, Thursday 12:30pm-1:30pm, CSE 4204
+  - **Office hours**: Wednesday and Friday 8:30am-9:30am, CSE 4204
 
 Do NOT use the Canvas mailing feature to contact us. We will NOT respond to those
 messages. If you need to send a private message to the instructor, you can use his ucsd email
@@ -53,7 +53,6 @@ allow posting public to the class.
 Please see the [Help Hours page](/help-hours.html) for more details on meeting 
 with staff and attending office hours.
 
-
 <a name="faq"></a>
 ## FAQs
 
@@ -83,14 +82,14 @@ for problem-solving with your classmates and Q&A with the instructional team.
 In each session, you will work in pairs or small groups on problems that we
 provide and we will go over them as a group.
 
-Attendance is not required, but is highly recommended. Studies (by UCSD faculty)
-have shown that attendance and participation in lecture leads to better
-student performance and higher grades.
+Attendance is required for 15 lecture (not including the first lecture and exams). 
+Studies (by UCSD faculty) have shown that attendance and participation in lecture 
+leads to better student performance and higher grades.
 
 All of the exams, including the **final exam**, will be in-person. The midterm
-exam will be held during lecture in Week 3. Students will be required to take the final exam 
+exam will be held during lecture in Week 6. Students will be required to take the final exam 
 in-person during the scheduled time. The room for the final exam will be posted in
-Week 5. 
+Week 10. 
 
 **What's the course material like?**
 
@@ -114,12 +113,11 @@ community member, you can view all the podcasts for the problem sessions at
 have any formalized support for auditing the course.
 
 **What if I have enrolled in CSE11 but won't be able to be in La Jolla for most
-or all of Summer 2 2022?**
+or all of Winter 2023?**
 
-You will be required to take all exams in-person. We will not offer any
-remote options for the exams. If you cannot take the exams in-person,
+You will be required to take all exams in-person and attend at least 15 lectures. 
+We will not offer any remote options for the exams. If you cannot take the exams in-person,
 you will not be able to pass the course. 
-
 
 **Do we need a clicker for this class?**
 
