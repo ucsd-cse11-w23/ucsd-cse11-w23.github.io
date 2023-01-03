@@ -1,10 +1,10 @@
 ---
 layout: with-sidebar
-title: "Syllabus – UCSD CSE11 Summer 2 22"
+title: "Syllabus – UCSD CSE11 Winter 23"
 doodle: "/doodle.png"
 ---
 
-# UCSD CSE 11 Summer 2 2022
+# UCSD CSE 11 Winter 2023
 ## Accelerated Intro to Programming
 
 ### Problem Session and Instructor Office Hours
