@@ -16,7 +16,7 @@ _{{ page.released-on }}_
 Welcome to the page for the first problem session! Each problem session will
 come with a page like this that summarizes the videos you should watch and
 readings you should complete **beforehand**, along with any handouts for the day
-and code examples, notes, and recordings from the problem solving session.
+and code examples and notes from the problem solving session.
 
 Session plan:
 - 2-3 min: Introduce instructors/staff
