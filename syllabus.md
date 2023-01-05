@@ -33,7 +33,7 @@ There are a few components to your grade in the course:
 - 10% Lecture Participation
 - 15% Completing book exercises in Stepik and course engagement activities (surveys)
 - 50% Programming assignments
-- 25% Programming assessments (exams)
+- 25% Exams
   - 10% Midterm Exam
   - 15% Final Exam
 
