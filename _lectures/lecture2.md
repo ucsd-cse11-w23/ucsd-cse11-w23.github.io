@@ -17,13 +17,13 @@ worksheets:
 
 ---
 
-## Problem Session 2 – Classes and Fields
+## Lecture 2 – Classes and Fields
 
 _{{ page.released-on }}_
 
 ## Pre-class Tasks
 
-Readings to be completed **before** problem session.
+Readings to be completed **before** lecture.
 
 You will need to make an account on Stepik to have your work saved.
 - [Stepik 1.1-1.3](https://stepik.org/lesson/559661/step/1?unit=553721){:target="_blank"}
@@ -38,7 +38,7 @@ To do this automatically, we are using a survey in Canvas that every student mus
 to ensure that they are certified.
 - [First Day Survey: Tell Me About Yourself #FinAid](https://canvas.ucsd.edu/courses/42398/quizzes/125571){:target="_blank"} 
 
-Videos (to watch **before** problem session):
+Videos (to watch **before** lecture):
 
 {% for video in page.videos %}
 [{{ video.title }}]({{ video.url }}){:target="_blank"}
