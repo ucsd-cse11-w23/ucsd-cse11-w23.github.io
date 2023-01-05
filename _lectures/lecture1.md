@@ -38,10 +38,10 @@ yourself with the [syllabus](../syllabus.html).
 
 The handout for the first day has a few questions for us to use as icebreakers
 and to start talking about programming. You can access [the PDF
-directly](https://drive.google.com/file/d/1L3-VtXr7YZcVXDlBpVGv9B7Thzwn64tK/preview){:target="_blank"}
+directly](https://drive.google.com/file/d/1tVsiWip7qxN5PH6xJWFATQuS8OZVtceJ/preview){:target="_blank"}
 on Google Drive to download it.
 
-<iframe src="https://drive.google.com/file/d/1L3-VtXr7YZcVXDlBpVGv9B7Thzwn64tK/preview" width="640" height="480" allow="autoplay"></iframe>
+<iframe src="https://drive.google.com/file/d/1tVsiWip7qxN5PH6xJWFATQuS8OZVtceJ/preview" width="640" height="480" allow="autoplay"></iframe>
 
 ## Completed Worksheets from Lecture
 
