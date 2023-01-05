@@ -2,7 +2,7 @@
 layout: with-sidebar
 index: 2
 name: Classes and Fields
-released-on: "2022-08-02"
+released-on: "2023-01-11"
 videos:
   - title: Introduction to Running Programs
     url: https://drive.google.com/file/d/1PK-B_xRonGca_x8fLDRl1OPZqSceHk5x
