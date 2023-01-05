@@ -19,13 +19,13 @@ worksheets:
 
 ---
 
-## Problem Session 3 – Vocabulary and Methods
+## Lecture 3 – Vocabulary and Methods
 
 _{{ page.released-on }}_
 
 ## Pre-class Tasks
 
-Readings to be completed **before** problem session.
+Readings to be completed **before** lecture.
 
 - [Stepik 3.1-3.4](https://stepik.org/lesson/559662/step/1?unit=553722){:target="_blank"}
 
@@ -35,7 +35,7 @@ To do this automatically, we are using a survey in Canvas that every student mus
 to ensure that they are certified.
 - [First Day Survey: Tell Me About Yourself #FinAid](https://canvas.ucsd.edu/courses/42398/quizzes/125571){:target="_blank"} 
 
-Videos (to watch **before** problem session):
+Videos (to watch **before** lecture):
 
 {% for video in page.videos %}
 [{{ video.title }}]({{ video.url }}){:target="_blank"}
