@@ -9,7 +9,7 @@ worksheets:
 
 ---
 
-## Problem Session 1 – Introduction
+## Lecture 1 – Introduction
 
 _{{ page.released-on }}_
 
