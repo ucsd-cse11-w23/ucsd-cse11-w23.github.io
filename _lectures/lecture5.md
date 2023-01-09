@@ -27,6 +27,10 @@ Readings to be completed **before** problem session.
 
 - Stepik Chapter 4 [https://stepik.org/lesson/568133/step/1?unit=562510](https://stepik.org/lesson/568133/step/1?unit=562510)
 
+Survey to be completed by Friday (2 points)
+
+- [CSE 11 - Experiences in CSE - Winter 2023 I](https://forms.gle/S9oDaGZpWSMk5Dwb9)
+
 The university requires us to determine which students commence academic activity. Failure to certify academic activity, may result in students being billed for unearned financial aid.
 
 To do this automatically, we are using a survey in Canvas that every student must fill out by the end of Friday of Week 2
