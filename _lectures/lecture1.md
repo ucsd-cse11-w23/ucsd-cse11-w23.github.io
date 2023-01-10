@@ -6,7 +6,8 @@ released-on: "2023-01-09"
 videos:
 
 worksheets:
-
+  - title: Lecture
+    url: https://drive.google.com/file/d/1ur9ccaMPOBnXUiHQy43tQgKM63mSsttM/preview
 ---
 
 ## Lecture 1 – Introduction
