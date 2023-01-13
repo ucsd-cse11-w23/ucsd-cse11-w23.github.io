@@ -16,7 +16,8 @@ videos:
     url: https://drive.google.com/file/d/1m_72isftSttgHZ9Rj9PR1I4hPbzzAFyH
 
 worksheets:
-
+  - title: Lecture
+    url: https://drive.google.com/file/d/1v2Rgcdo_rLYK9gzjx9xDdReP3xQt_I8r
 ---
 
 ## Lecture 3 – Vocabulary and Methods
