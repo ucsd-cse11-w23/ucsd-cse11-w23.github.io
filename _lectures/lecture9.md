@@ -4,7 +4,8 @@ index: 9
 name: Nested Data
 released-on: "2023-01-30"
 worksheets:
-
+  - title: Lecture
+    url: https://drive.google.com/file/d/1Ak7XIDpNGJxxk1KXoxApqGGaVZSIwYqS
 ---
 
 ## Problem Session {{ page.index }} – {{ page.name }}
