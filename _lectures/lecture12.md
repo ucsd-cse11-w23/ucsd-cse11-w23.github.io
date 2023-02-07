@@ -13,7 +13,8 @@ videos:
   - title: Arrays, Memory
     url: https://drive.google.com/file/d/14QiAfHlccvCZTVsU3MuBvLoFkSU-_UAo
 worksheets:
-
+  - title: Lecture
+    url: https://drive.google.com/file/d/1JFp6wr3NgDZ49pJ_VZfoVAP68r6YrjkW
 ---
 
 ## Problem Session {{ page.index }} – {{ page.name }}
