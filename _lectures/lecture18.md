@@ -13,7 +13,8 @@ videos:
   - title: Range
     url: https://drive.google.com/file/d/1C_rnkqz2YHE6BsBcd2NUnWIYC1Fvts5Z
 worksheets:
-
+  - title: Lecture
+    url: https://drive.google.com/file/d/1pKMFg6djNGsLok2pPovkI9VhyFlXlayl
 ---
 
 ## Problem Session {{ page.index }} – {{ page.name }}
