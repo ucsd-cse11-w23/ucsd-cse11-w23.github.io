@@ -19,7 +19,6 @@ worksheets:
 
 ## Problem Session {{ page.index }} – {{ page.name }}
 
-
 _{{ page.released-on }}_
 
 ## Pre-class Tasks
