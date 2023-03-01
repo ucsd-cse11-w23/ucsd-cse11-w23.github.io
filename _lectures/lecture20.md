@@ -5,7 +5,8 @@ name: Debugging
 released-on: "2023-03-01"
 videos:
 worksheets:
-
+  - title: Lecture
+    url: https://drive.google.com/file/d/1rhhC2Sk-z5vDl476-xjPmTNEzHwvkdYM
 ---
 
 ## Problem Session {{ page.index }} – {{ page.name }}
@@ -33,6 +34,6 @@ Full example with file contents: [https://github.com/ucsd-cse11-w23/ucsd-cse11-w
 <div class="worksheetBox">
 {{ worksheet.title }}
 <br>
-<iframe src="{{ worksheet.url }}/preview" width="256" height="192" allow="autoplay"></iframe>
+<iframe src="{{ worksheet.url }}/preview" width="640" height="480" allow="autoplay"></iframe>
 </div>
 {% endfor %}
