@@ -11,7 +11,8 @@ videos:
     - title: "Protected"
       url: https://drive.google.com/file/d/1-2lleGWYeeXkiTaRmWbTtOeM3lZ7uHSP
 worksheets:
-
+  - title: Lecture
+    url: https://drive.google.com/file/d/1BZANLmaxnf3xExY6ZXbp2GNCbpHuyZjT
 ---
 
 ## Problem Session {{ page.index }} – {{ page.name }}
